@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pitomcy-budni.ru/sitemap.xml
